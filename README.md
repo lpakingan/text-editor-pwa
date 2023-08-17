@@ -40,6 +40,8 @@ The application can either be used at its [deployed Heroku link](https://jate-ch
 
 Once on the application in the web browser, the user can either begin using the text editor right away within the browser or install it to their own system by pressing the Install button. If installed, the application can be accessed externally outside of the browser. The text editor can run offline and will save input whenever the browser if clicked out of or refreshed.
 
+![](https://github.com/lpakingan/text-editor-pwa/blob/main/assets/text_editor_ss.jpg)
+
 ## Resources Used
 - W3Schools
 - MDN Web Docs
